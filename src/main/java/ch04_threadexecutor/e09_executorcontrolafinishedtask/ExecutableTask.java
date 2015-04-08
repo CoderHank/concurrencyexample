@@ -1,4 +1,4 @@
-package ch04_threadexecutor.e09_executorcontrolatasktofinish;
+package ch04_threadexecutor.e09_executorcontrolafinishedtask;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;

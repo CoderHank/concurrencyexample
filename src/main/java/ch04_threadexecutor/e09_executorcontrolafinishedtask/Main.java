@@ -1,4 +1,4 @@
-package ch04_threadexecutor.e09_executorcontrolatasktofinish;
+package ch04_threadexecutor.e09_executorcontrolafinishedtask;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
